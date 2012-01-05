@@ -1,0 +1,73 @@
+/* popup*/
+.article_content {
+	font-size: 13px;
+        color: #474743;
+}
+.popup_title {
+	font-size: 20px;
+	font-weight: bold;
+	color: #474743;
+}
+.testimonial_img {
+	float: left;
+	padding: 5px;
+	border: 1px solid #BB886F;
+	margin: 5px 20px 20px 5px;
+}
+#openPopup{
+	cursor: pointer;
+	text-decoration:none;
+}
+/*end popup container*/
+/*popup contents*/
+.article_1 {
+    float: left;
+    width: 320px;        
+    min-height: 300px;
+}
+.article_content  p{
+    font-size: 13px;
+    padding: 10px;
+}
+.article_content {
+    border-bottom: 1px solid #D9D9D9;
+}
+.article_1 .p_title,
+.article_2 .p_title,
+.article_3 .p_title{
+    font-size: 15px;
+    font-weight: bold;
+    color: #6A8FA9;
+    padding: 0 5px 0px 5px;
+}
+.content_part2 {    
+    margin-left: 320px;
+}
+.article_2 {
+    float: left;    
+    width: 225px;    
+    min-height: 300px;
+}
+.article_3 {
+    margin-left: 225px;
+    width: 250px;
+    min-height: 300px;
+}
+/*for medical journals css*/
+.med_journal_content {
+	font-size: 13px;	
+}
+.med_journal_content h2 {
+	color: #CC0000;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 25px;
+    padding: 0 30px 10px;
+    text-align: center;
+    text-transform: capitalize;
+}	
+.bold_italic {
+	text-decoration: 
+	underline: font-weight: bold;
+}
+/*end popup contents*/
