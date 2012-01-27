@@ -1,7 +1,6 @@
 <?php
-
 /*
-  Plugin Name: icon-tags
+  Plugin Name: Icon Tag
   Plugin URI: ICON TAGS
   Description: Select icon for tags
   Author: Angelo

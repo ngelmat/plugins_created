@@ -6,7 +6,28 @@
         Purpose of the stylesheet follows.
 */
 
-root { 
-  display: block;
+#post-tag-options {
+  padding: 0px 20px;  
 }
-
+#post-tag-options td {
+  padding-left: 15px;  
+}
+#post-tag-options tr {
+  margin-bottom: 10px;
+}
+.icon-save-btn, .settings-description  {
+  margin-left: 35px;
+}
+.label-tag-name {
+  padding-top: 20px; 
+}
+#tag-icon-setting {
+  background: url('images/tag.png') no-repeat;
+  height: 32px;
+  width: 32px;
+  float: left;
+  margin-left: 20px;
+  margin-right: 10px;
+  top: 10px;
+  position: relative;
+}
