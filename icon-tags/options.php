@@ -37,7 +37,7 @@ if (isset($_POST['submit'])) {
             <td class="label-tag-name"><?php echo $tag->name; ?></td>
           </tr>
           <tr>
-            <td class="label-tag-description">Tag Desciption: </td>
+            <td class="label-tag-description">Tag Description: </td>
             <td class="label-tag-description"><?php echo $tag->description; ?></td>
           </tr>
           <tr>
