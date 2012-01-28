@@ -1,5 +1,5 @@
 <?php
-/**
+  /**
    * Fetch all the tags created
    * @global type $wpdb
    * @return type 
